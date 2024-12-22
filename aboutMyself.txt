@@ -5,4 +5,5 @@ Semester :Third
 Section :B
 Branch :Computer Science
 College Name :GITW
-
+SSLC :G.G.H.S old
+PUC :Shanthi pu College
