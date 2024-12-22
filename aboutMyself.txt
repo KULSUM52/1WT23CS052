@@ -1,1 +1,8 @@
+Title :MS
+Full Name :Umme Kulsum
+USN :1WT23CS052
+Semester :Third
+Section :B
+Branch :Computer Science
+College Name :GITW
 
